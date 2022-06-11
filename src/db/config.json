@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "password",
+    "database": "teesas-db",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": true,
+    "host": "localhost"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "password",
+    "database": "teesas_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": ""
+  }
+}
+
