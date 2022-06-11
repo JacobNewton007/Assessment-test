@@ -34,7 +34,7 @@ Teesas Test
 
 #### Clone
 
-- Clone this project to your local machine `git@github.com:victorsteven/Book-app-NodeJS-PostgreSQL-Travis-Coveralls-Code-Climate.git`
+- Clone this project to your local machine `git@github.com:JacobNewton007/teesas-test.git`
 
 #### Setup
 
